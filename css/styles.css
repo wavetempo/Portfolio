@@ -1,0 +1,52 @@
+/* Global styles */
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+}
+
+/* Section styles */
+    background-color: #4FBDD2;
+    padding: 25px 25px;
+
+/* Heading styles */
+h1{
+    color: #F2CC8F;
+    font-size: 2.0em;
+    font-weight: 900;
+    text-align: center;
+    line-height: 1em;  
+    margin: 15px 0 5px 0;
+    text-transform: uppercase;        
+}
+
+h2 {
+    color: #81B29A;
+    font-size: 1.15em;
+    font-weight: 700;
+    text-align: center;
+    margin: 5px 0 10px 0;
+}
+
+h3 {
+    font-size: 1.4em;
+    font-weight: 900;
+    text-align: center;
+    margin: 10px 0 10px 0;
+    text-transform: uppercase;
+}
+
+h4 {
+    font-size: 1.15em;
+    font-weight: 600;
+    color: white;
+    text-shadow: 0 1px 1px #333333;    
+}
+
+/* Project tile styles */
+
+
+/* Button styles */
+
+
+/* Link styles */
